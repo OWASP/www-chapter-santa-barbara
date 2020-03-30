@@ -1,7 +1,7 @@
 ### Santa Barbara Chapter
 * [Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/santa-barbara-chapter){:target="_blank"} (low volume)
 * [Meetup Group](https://www.meetup.com/Santa-Barbara-OWASP-Chapter/){:target="_blank"}
-* [Slack Channel](https://owasp.slack.com/){:target="_blank"}
+* [Slack Channel](https://owasp.slack.com/app_redirect?channel=chapter-santa-barbara){:target="_blank"} (#chapter-santa-barbara)
 <br>
 -- We strongly recommend joining all of the above to make the most of the group. Many 3rd party (non-OWASP) InfoSec events in the area are only announced on the mailing list.
 <br>
