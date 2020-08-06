@@ -3,7 +3,7 @@ layout: col-sidebar
 title: OWASP Santa Barbara
 tags: meetings-tag conferences-tag leadership-tag
 level: 0
-region: North Americ
+region: North America
 meetup-group: Santa-Barbara-OWASP-Chapter
 country: USA
 postal-code: 93101
