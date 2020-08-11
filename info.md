@@ -7,11 +7,6 @@
 <br>
 <br>
 
-### Leadership
-* [Walter Martín Villalba](mailto:martin.villalba@owasp.org)
-<br>
-<br>
-
 ### Documentation
 * [Chapter Handbook (current)](https://owasp.org/www-policy/operational/chapter-handbook-existing){:target="_blank"}
 * [Chapter Handbook (new, WIP)](https://owasp.org/www-policy/operational/chapters){:target="_blank"}
