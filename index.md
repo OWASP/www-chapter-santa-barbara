@@ -19,7 +19,7 @@ The current leader is [Walter Martín Villalba](mailto:martin.villalba@owasp.org
 Steps to make the most of our community:
 1. Subscribe to our [mailing list](https://groups.google.com/a/owasp.org/forum/#!forum/santa-barbara-chapter){:target="_blank"} (low volume). All important messages are posted to the list, and we often use it to announce 3rd party (non-OWASP) InfoSec events in the area as well.
 2. Join our [Meetup Group](https://www.meetup.com/Santa-Barbara-OWASP-Chapter/){:target="_blank"}. All OWASP SB events are announced and tracked there. 
-3. Join our [Slack Channel](https://owasp.slack.com/app_redirect?channel=chapter-santa-barbara){:target="_blank"}. The channel is used to ask questions, seek advice, and engage in technical discussions, both during and after the events. If you don't have an account, [create one here](https://owasp-slack.herokuapp.com/){:target="_blank"} (no need for an OWASP email address). Then login and join #chapter-santa-barbara.
+3. Join our [Slack Channel](https://owasp.slack.com/app_redirect?channel=chapter-santa-barbara){:target="_blank"}. The channel is used to ask questions, seek advice, and engage in technical discussions, both during and after the events. If you don't have an account, [create one here](https://owasp.org/slack/invite){:target="_blank"} (no need for an OWASP email address). Then login and join #chapter-santa-barbara.
 <br>
 <br>
 
