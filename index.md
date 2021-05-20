@@ -14,7 +14,7 @@ postal-code: 93101
 
 Welcome to the OWASP Santa Barbara chapter! We're excited to have a dedicated group of application security professionals and enthusiasts, and we'd love to have you join us. All meetings are free, oriented towards knowledge sharing, practical learning, and having lots of fun!
 
-The current leader is [Walter Martín Villalba](mailto:martin.villalba@owasp.org), and we're always looking for talented and motivated people to help with the group.
+The current leaders are [Walter Martín Villalba](mailto:martin.villalba@owasp.org) and [Albert Chae](mailto:albert.chae@owasp.org), and we're always looking for talented and motivated people to help with the group.
 
 Steps to make the most of our community:
 1. Subscribe to our [mailing list](https://groups.google.com/a/owasp.org/forum/#!forum/santa-barbara-chapter){:target="_blank"} (low volume). All important messages are posted to the list, and we often use it to announce 3rd party (non-OWASP) InfoSec events in the area as well.
