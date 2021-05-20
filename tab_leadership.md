@@ -1,11 +1,12 @@
 ---
+
 title: Leadership
 layout:  null
 tab: true
 order: 3
 tags: leadership-tag
+
 ---
-<br>
 
 The current chapter leader is [Walter Martín Villalba](mailto:martin.villalba@owasp.org). If you would like to become involved, please reach out to us!
 

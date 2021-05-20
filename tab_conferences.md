@@ -1,15 +1,16 @@
 ---
+
 title: Conferences
 layout:  null
 tab: true
 order: 2
 tags: conferences-tag
+
 ---
 
 ### Upcoming Conferences
+
 AppSec California 2021 - Date: TBD (late January), 2021
-<br>
-<br>
 
 ### Past Conferences
 * [AppSec California 2020](https://2020.appseccalifornia.org/){:target="_blank"} - Jan 21-24, 2020 -- [Videos](https://www.youtube.com/watch?v=HGuqRdPUGy4&list=PLhaoFbw_ejdo-4nSeRKNH1pRhdfsn3CI7){:target="_blank"}
