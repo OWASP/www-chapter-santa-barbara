@@ -8,7 +8,7 @@
 <br>
 
 ### Documentation
-* [Chapter Handbook (current)](https://owasp.org/www-policy/operational/chapter-handbook-existing){:target="_blank"}
+* [Chapter Policy (current)](https://owasp.org/www-policy/)
 * [Chapter Handbook (new, WIP)](https://owasp.org/www-policy/operational/chapters){:target="_blank"}
 * [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct){:target="_blank"}
 * [Leader Handbook](https://owasp.org/www-policy/operational/leader){:target="_blank"}
