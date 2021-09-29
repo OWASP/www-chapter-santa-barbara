@@ -10,6 +10,7 @@ postal-code: 93101
 
 ---
 
+<!-- Rebuild and force update -->
 ### Welcome
 
 Welcome to the OWASP Santa Barbara chapter! We're excited to have a dedicated group of application security professionals and enthusiasts, and we'd love to have you join us. All meetings are free, oriented towards knowledge sharing, practical learning, and having lots of fun!
