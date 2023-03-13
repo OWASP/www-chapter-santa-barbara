@@ -29,7 +29,7 @@ Please register for our next meeting at our [meetup group](https://www.meetup.co
 
 ### Participation
 
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/){:target="_blank"}. To be a SPEAKER at ANY OWASP Chapter in the world simply contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
