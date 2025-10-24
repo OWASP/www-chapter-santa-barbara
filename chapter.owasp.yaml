@@ -1,0 +1,31 @@
+community:
+  - name: chapter-santa-barbara
+    platform: slack
+    url: https://owasp.slack.com/archives/C0111JRDMJB
+    description: Official channel for OWASP Santa Barbara (CA)
+leaders:
+  - name: Walter Martín Villalba
+    email: martin.villalba@owasp.org
+    github: act1vand0
+  - name: Albert Chae
+    email: albert.chae@owasp.org
+    github: albertchae
+location:
+  country: United States
+  country_code: US
+  region: California
+  city: Santa Barbara
+  postal_code: '93101'
+  latitude: 34.4221319
+  longitude: -119.702667
+meetup_group: Santa-Barbara-OWASP-Chapter
+name: OWASP Santa Barbara
+repositories:
+  - name: www-chapter-santa-barbara
+    url: https://github.com/OWASP/www-chapter-santa-barbara
+    description: OWASP Foundation Web Repository
+tags:
+  - meetings-tag
+  - conferences-tag
+  - leadership-tag
+website: https://owasp.org/www-chapter-santa-barbara
